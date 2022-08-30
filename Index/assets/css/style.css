@@ -28,12 +28,11 @@ footer{
 
 }
 .main{
-width: 490px;
-    height: 564px;
+  width: 453px;
     background-color: #27272d;
     margin-top: 47px;
     margin-bottom: 180px;
-    padding: 24px;
+    padding: 46px;
     border-radius: 10px;
 }
 img{
